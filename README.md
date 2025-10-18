@@ -1,4 +1,4 @@
-<img width="1000" height="94" alt="image" src="https://github.com/user-attachments/assets/f26b24e7-57d8-4d15-88ce-2e885885e6e6" />
+<img width="700" height="200" alt="image" src="https://github.com/user-attachments/assets/f26b24e7-57d8-4d15-88ce-2e885885e6e6" />
 
 # ExamenUnidad2 - Patrones (Zarza Morales, Jose Diego)
 
